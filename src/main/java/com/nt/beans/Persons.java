@@ -5,4 +5,5 @@ public class Persons {
 	int p;
 	int q;
 
+	int g;
 }
